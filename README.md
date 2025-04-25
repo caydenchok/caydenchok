@@ -5,3 +5,5 @@
   ![@caydenchok #30NitesOfCode](https://www.codedex.io/api/petStatus?user=caydenchok)
   
   [Check out my progress!](https://www.codedex.io/@caydenchok/30-nites-of-code)
+
+tensorflow pytorch pandas seaborn opencv scikit_learn mysql aws firebase linux git javascript typescript c cplusplus csharp ruby python java react bootstrap css3 html5 tailwind redux webpack ember nodejs express kafka solr rabbitMQ nginx nestjs graphql android flutter nativescript reactnative apachecordova electron
